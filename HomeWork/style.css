@@ -1,0 +1,15 @@
+
+
+/* 
+h2{
+    
+    margin-left: 200px;
+
+}
+ */
+
+ input[type="submit"] {
+    color: white;
+    margin-left: 100px;
+    background-color: green;
+ }
